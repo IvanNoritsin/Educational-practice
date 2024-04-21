@@ -1,0 +1,5 @@
+C:\Users\79930\Desktop\Educational practice\NAS\NAS\x64\Debug\NAS.vcxproj.AssemblyReference.cache
+C:\Users\79930\Desktop\Educational practice\NAS\NAS\x64\Debug\NAS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\79930\Desktop\Educational practice\NAS\NAS\x64\Debug\NAS.MyForm1.resources
+C:\Users\79930\Desktop\Educational practice\NAS\NAS\x64\Debug\NAS.vcxproj.GenerateResource.cache
+C:\Users\79930\Desktop\Educational practice\NAS\NAS\x64\Debug\NAS.MyForm2.resources
